@@ -2,8 +2,8 @@
 
 ## 效果演示
 
-![布料模拟演示](yanshhi=1.gif)
-![布料模拟演示](yanshhi=5.gif)
+![布料模拟演示](yanshi=1.gif)
+![布料模拟演示](yanshi=5.gif)
 
 ## 项目架构
 
